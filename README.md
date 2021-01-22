@@ -1,3 +1,1 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with Create React App.
+https://vlad-coder-678.github.io/store_react-redux/
